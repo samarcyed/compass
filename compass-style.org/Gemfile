@@ -14,7 +14,7 @@ gem 'nokogiri'
 gem 'coderay'
 gem 'haml'
 gem 'rake'
-gem 'activesupport', '~> 3.0.10', :require => 'active_support/inflector'
+gem 'activesupport', '~> 5.2.4', '>= 5.2.4.3', :require => 'active_support/inflector'
 gem 'sass', "~> 3.3.0"
 gem 'compass', :path => ".."
 gem 'susy'
